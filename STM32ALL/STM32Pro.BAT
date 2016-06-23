@@ -1,4 +1,7 @@
-SET PATH=C:\Keil_v5\ARM\ARMCC\Bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;D:\Program Files\Java\jdk1.8.0_66\bin;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\
+SET PATH=C:\Keil_v5\ARM\ARMCC\Bin;C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Java\jdk1.8.0_66\bin;D:\Android\sdk\platform-tools;d:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files\IDM Computer Solutions\UltraCompare;C:\Program Files (x86)\Nordic Semiconductor\nrf5x\bin;D:\Program Files (x86)\Dev-Cpp\MinGW64\bin;D:\Program Files\Python3.5\Scripts\;D:\Program Files\Python3.5\;d:\Program Files (x86)\DBank\ClickUp;d:\Program Files (x86)\DBank\ClickUp
+SET ARMCC5_ASMOPT=--diag_suppress=9931
+SET ARMCC5_CCOPT=--diag_suppress=9931
+SET ARMCC5_LINKOPT=--diag_suppress=9931
 SET CPU_TYPE=STM32F103ZE
 SET CPU_VENDOR=STMicroelectronics
 SET UV2_TARGET=STM32Pro
